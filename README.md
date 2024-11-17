@@ -24,8 +24,6 @@
   </a>
 </div>
 
-<br clear="both">
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ouylaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
@@ -36,7 +34,7 @@
 
 <h4 align="center">👋 Salut à tous ! Je suis Ouylaz 🧑‍💻, un passionné de cybersécurité 🔒 et de développement de programmes 💻. Toujours curieux d'explorer les mystères du numérique 🌐 et d'apprendre de nouvelles choses pour protéger et créer des solutions innovantes 🚀.<br>✨ Hâte d'échanger avec vous et partager cette passion tech ! 🤝 Voici en quel language je code :</h4>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
