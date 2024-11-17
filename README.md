@@ -6,19 +6,6 @@
 
 <img align="right" height="206" src="https://cdn.discordapp.com/avatars/1147893322392805487/a7cbee5fd5deb0355a917d2f8c6c4a30.webp?size=1024"  />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
 
 ###
 
@@ -47,6 +34,18 @@
 
 <br clear="both">
 
-<h4 align="center">👋 Salut à tous ! Je suis Ouylaz 🧑‍💻, un passionné de cybersécurité 🔒 et de développement de programmes 💻. Toujours curieux d'explorer les mystères du numérique 🌐 et d'apprendre de nouvelles choses pour protéger et créer des solutions innovantes 🚀.<br>✨ Hâte d'échanger avec vous et partager cette passion tech ! 🤝</h4>
+<h4 align="center">👋 Salut à tous ! Je suis Ouylaz 🧑‍💻, un passionné de cybersécurité 🔒 et de développement de programmes 💻. Toujours curieux d'explorer les mystères du numérique 🌐 et d'apprendre de nouvelles choses pour protéger et créer des solutions innovantes 🚀.<br>✨ Hâte d'échanger avec vous et partager cette passion tech ! 🤝 Voici en quel language je code :</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
 ###
