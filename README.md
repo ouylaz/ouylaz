@@ -2,7 +2,7 @@
 
 ###
 
-<br clear="both">
+<br clear="center">
 
 <img align="right" height="206" src="https://cdn.discordapp.com/avatars/1147893322392805487/a7cbee5fd5deb0355a917d2f8c6c4a30.webp?size=1024"  />
 
